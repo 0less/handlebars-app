@@ -1,0 +1,27 @@
+{
+  "name": "handlebars-app",
+  "version": "1.0.0",
+  "description": "from [JavaScript Templating with Handlebars course on Pluralsight.com](http://www.pluralsight.com/courses/handlebars-javascript-templating)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oles-/handlebars-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oles-/handlebars-app/issues"
+  },
+  "homepage": "https://github.com/oles-/handlebars-app",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-wrap": "^0.11.0",
+    "merge-stream": "^1.0.0"
+  }
+}
